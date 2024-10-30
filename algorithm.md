@@ -16,7 +16,7 @@
 - **Algorithm:**
 1. prompt the user how many times they would like to roll and save as rolls
 2. while the user's input is not a digit 
-   3. prompt user how many times they would like to roll
+   1. prompt user how many times they would like to roll
 3. typecast as an int and return rolls
 
 
